@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+Built-By: Sparkle
+Build-Jdk: 1.7.0_45
+Main-Class: foo\Test1
+Created-By: Maven Integration for Eclipse
+
